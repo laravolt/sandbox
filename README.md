@@ -1,3 +1,5 @@
+> **Archived.** This application is no longer maintained and runs an end-of-life Laravel version. Start new projects with [laravolt/laravel-starter-kit](https://github.com/laravolt/laravel-starter-kit).
+
 # My Awesome Laravolt Application
 
 ## Server Requirements
